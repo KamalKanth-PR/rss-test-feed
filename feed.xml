@@ -11,5 +11,12 @@
       <pubDate>Tue, 18 Nov 2025 12:00:00 GMT</pubDate>
       <guid>1</guid>
     </item>
+    <item>
+      <title>Test Item 2</title>
+      <link>https://example.com/item2</link>
+      <description>Second test item</description>
+      <pubDate>Tue, 18 Nov 2025 13:00:00 GMT</pubDate>
+      <guid>2</guid>
+    </item>
   </channel>
 </rss>

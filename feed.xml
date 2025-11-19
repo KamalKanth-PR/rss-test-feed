@@ -28,8 +28,8 @@
     <item>
       <title>Test Item 5</title>
       <link>https://example.com/item2</link>
-      <description>fifth test item</description>
-      <pubDate>Tue, 18 Nov 2025 14:00:00 GMT</pubDate>
+      <description>Fifth test item</description>
+      <pubDate>Tue, 19 Nov 2025 14:00:00 GMT</pubDate>
       <guid>5</guid>
     </item>
   </channel>

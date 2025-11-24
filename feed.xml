@@ -49,9 +49,9 @@
     <item>
       <title>Test Item 8</title>
       <link>https://example.com/item8</link>
-      <description>Eighth test item</description>
-      <pubDate>Fri, 21 Nov 2025 20:00:00 GMT</pubDate>
-      <guid>6</guid>
+      <description>Eighth test item update</description>
+      <pubDate>Fri, 24 Nov 2025 20:00:00 GMT</pubDate>
+      <guid>8</guid>
     </item>
   </channel>
 </rss>

@@ -53,5 +53,12 @@
       <pubDate>Fri, 24 Nov 2025 20:00:00 GMT</pubDate>
       <guid>8</guid>
     </item>
+    <item>
+      <title>Test Item 9</title>
+      <link>https://example.com/item8</link>
+      <description>Ninth test item update</description>
+      <pubDate>Fri, 24 Nov 2025 21:00:00 GMT</pubDate>
+      <guid>9</guid>
+    </item>
   </channel>
 </rss>
